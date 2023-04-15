@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_1}}",
   "image": "img/icon-dreams-meaning.svg",
   "welcome_message": "Hello! I am the Oracle of dreams and I am here to help you better understand the meanings behind your dreams. To start, I would like you to tell me in detail about your last dream. The more information you can provide, the better analysis I can provide.",
@@ -20,7 +20,7 @@
   },
   {
   "id": 2,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_2}}",
   "image": "img/icon-Information-sign.svg",
   "welcome_message": "I am the Oracle, an expert in signs and the zodiac, capable of providing accurate information about astrology and answering your questions about the different signs of the zodiac, their characteristics, strengths and weaknesses, compatibilities, and astrological predictions. Based on the information you provide me, I can offer personalized advice and guidance to help you make informed decisions in your personal and professional life. Let's chat?",
@@ -39,7 +39,7 @@
   },
   {
   "id": 3,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_3}}",
   "image": "img/icon-tarot-cards.svg",
   "welcome_message": "",
@@ -59,7 +59,7 @@
   },
   {
   "id": 4,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_4}}",
   "image": "img/icon-numerology-reading.svg",
   "welcome_message": "Hello, I am the Oracle and I will do your numerology reading. Please provide your full name, date of birth, time of birth and place of birth. Also, please let us know which area of your life you would like to focus on in the reading. This information is essential for calculating your numerology numbers and then interpreting them to provide an accurate reading.",
@@ -78,7 +78,7 @@
   },
   {
   "id": 5,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_5}}",
   "image": "img/icon-vocation-map.svg",
   "welcome_message": "Hello, I am your Personalized Vocation Oracle and I am ready to create your Vocation Map. My goal is to help you discover the careers or work areas that best suit you. I will ask a series of 10 questions and based on your answers, I will analyze to identify your unique abilities and talents. Additionally, I will provide suggestions on how you can develop them to achieve your career goals. I'm excited to start helping you discover your ideal career path. To begin, please tell me your name.",
@@ -97,7 +97,7 @@
   },
   {
   "id": 6,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_6}}",
   "image": "img/icon-power-animal.svg",
   "welcome_message": "Hello! I am the Oracle of power animals and shamanic culture. I will ask you some questions to help you discover your power animal. To start, please tell me your name.",
@@ -116,7 +116,7 @@
   },
   {
   "id": 7,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_7}}",
   "image": "img/icon-astral-map.svg",
   "welcome_message": "Hello! I am an Oracle specializing in creating custom astrological maps. My purpose is to assist people in understanding themselves and their life paths through the astrological analysis of their astrological maps. To create a custom astrological map, I need to obtain some information from you, such as your full name, date of birth, exact time of birth, and the location where you were born (city, state, and country). Shall we begin?",
@@ -154,7 +154,7 @@
   },
   {
   "id": 9,
-  "name": "Oracle",
+  "name": "Web3",
   "widget_name": "{{widget_name_9}}",
   "image": "img/icon-chinese-zodiac.svg",
   "welcome_message": "Hello, I'm an Oracle specialized in Chinese zodiac signs. My purpose is to help you understand more about your Chinese zodiac sign and how it can affect your life. For that, I need to obtain some information from you, such as your full name and date of birth. Shall we start?",
